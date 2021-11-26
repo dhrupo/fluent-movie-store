@@ -1,0 +1,13 @@
+.fluent-movie-container .btn-add-movie {
+  color: darkslateblue;
+}
+
+.fluent-movie-single {
+  background-color: darkgray;
+  margin: 10px 0;
+  padding: 12px;
+}
+
+.fluent-movie-single h3 a {
+  color: darkslateblue;
+}
